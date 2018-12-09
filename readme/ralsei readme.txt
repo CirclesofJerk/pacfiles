@@ -12,6 +12,11 @@ pac_event mus_hide
 	sets battle type to none (hides music, menu, and stage)
 pac_event reset
 	use if the menu breaks somehow
+	
+pac_event defdance 1
+	enable epic
+pac_event defdance 0
+	>:(
 
 there are a few saysounds to type in chat, you can easily find those in the pac editor
 
