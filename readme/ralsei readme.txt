@@ -20,6 +20,14 @@ pac_event defdance 0
 
 there are a few saysounds to type in chat, you can easily find those in the pac editor
 
+i can do anything
+chaos
+smile
+bye
+op
+nice
+metamorphosis
+
 feel free to modify this pac for other characters or w/e though credit is nice i guess
 
 find me at https://steamcommunity.com/id/circlesofjerk/ for questions
